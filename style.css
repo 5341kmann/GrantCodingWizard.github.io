@@ -9,7 +9,7 @@
   --my-font-color: #262729;
   --my-button-border-color: var(my-font-color);
   --my-title-font-family: "Bebas Neue", sans-serif;
-  --my-font-family: "proxima-nova", sans-serif;
+  --my-font-family: 'Proxima Nova', sans-serif;
   --bs-font-family: var(my-font-family);
 }
 
