@@ -181,6 +181,10 @@ hr {
   place-content: center;
   justify-content: center;
 }
+
+.my-header{
+  margin-top: 5%;
+}
 @media (max-width: 575px) {
   .my-logo {
     padding: 2% 45%;
